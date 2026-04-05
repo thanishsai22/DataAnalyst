@@ -1,2 +1,2 @@
-# SaiThanishVoore_DataAnalyst.github.io
+# SaiThanishVoore_DataAnalyst
 Data_Analyst
